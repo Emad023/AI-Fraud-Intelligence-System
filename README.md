@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange)
 # AI Fraud Intelligence & Risk Scoring Platform
 
 
