@@ -406,6 +406,9 @@ project/
 ├── docker-compose.yml
 ├── requirements.txt
 ├── .dockerignore
+│
+├── LICENSE
+│
 └── README.md
 ```
 
